@@ -1,0 +1,27 @@
+#file-input-label {
+	width: 200px;
+	cursor: pointer;
+	background-color: #009933;
+	color: white;
+	padding: 10px;
+	display: block;
+	margin: 0 auto;
+}
+
+#file-input {
+	display: none;
+}
+
+.display-2{
+	font-family: Lato;
+	font-weight: 700;
+}
+
+.resultDisplay{
+	font-family: Lato;
+	font-weight: 400;
+}
+
+html{
+	height: 100%;
+}
